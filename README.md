@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Coffeeeeeee 😄
+Coffeeeeeee or French Fries when you finish Coding 🍟
 
 - 🔭 I’m currently working on MERN Projects
 - 🌱 I’m currently learning TypeScript and GraphQL
