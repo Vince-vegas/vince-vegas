@@ -12,3 +12,4 @@ Coffeeeeeee or French Fries when you finish Coding 🍟
 - ⚡ Fun fact: I always put some milk on my coffee
 
 [GraphQL]: https://graphql.org/
+[TypeScript]: https://www.typescriptlang.org/
