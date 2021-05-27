@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Coffeeeeeee 😄
 
 - 🔭 I’m currently working on MERN Projects
 - 🌱 I’m currently learning TypeScript and GraphQL
