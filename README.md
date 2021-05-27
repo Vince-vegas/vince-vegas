@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Vince 👋👨‍💻
+
+
 
 Coffeeeeeee or French Fries when you finish Coding 🍟
 
