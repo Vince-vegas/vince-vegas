@@ -1,7 +1,7 @@
 ### Hi, I'm Vince 👋
 
 
-I'm currently building a **Lightbox Image Gallery**. Coffeeeeeee or French Fries when you finish Coding 🍟
+I'm currently building a **Lightbox Image Library**. Coffeeeeeee or French Fries when you finish Coding 🍟
 
 - 🔭 Currently working on MERN Projects
 - 🌱 Learning [TypeScript] and [GraphQL]
