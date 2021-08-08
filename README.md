@@ -1,7 +1,7 @@
 ### Hi, I'm Vince 👋
 
 
-I'm currently building a **Lightbox Image Library**.
+I'm currently building a **Lightbox Image Library** and **React Pagination**.
 
 - 🔭 Currently working on MERN Projects
 - 🌱 Learning [TypeScript] and [GraphQL]
